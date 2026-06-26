@@ -27,7 +27,7 @@ users.add("Jonh");
 print(users);
 
 //Remove Listname.remove("Value")
-users.remove("Sachin");
+users.remove("sachin");
 print(users);
 
 //Total no of  Data
@@ -35,3 +35,4 @@ print(users);
 print(users.length);
 
 }
+

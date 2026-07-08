@@ -3,10 +3,10 @@ void main() {
   Set<String> categories = {"Electronics", "Fashinbook", "Books", "Fashinbook"};
   print(categories);
 
-  //add Item
+  //add item
   categories.add("Kids");
 
-  // remove Item
+  // remove
   categories.remove("Book");
   print(categories);
 
@@ -35,4 +35,6 @@ void main() {
   notification.add("New msg- Whatsapp");
   notification.add("Gmail");
   print(notification);
+  
+
 }
